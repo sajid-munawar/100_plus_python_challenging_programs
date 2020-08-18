@@ -5,4 +5,4 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 >>> add(4,5,6)
 15
->>> 
+>>> print("a")
